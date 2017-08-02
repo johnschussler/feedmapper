@@ -1,0 +1,26 @@
+{
+  "name": "feedmapper",
+  "version": "0.0.1",
+  "description": "Feedmapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnschussler/feedmapper.git"
+  },
+  "keywords": [
+    "feed",
+    "map",
+    "data",
+    "csv",
+    "xml"
+  ],
+  "author": "John Schussler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnschussler/feedmapper/issues"
+  },
+  "homepage": "https://github.com/johnschussler/feedmapper#readme"
+}
